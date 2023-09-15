@@ -44,6 +44,7 @@ microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 3
 
+# configuration.py
 email_address = " " # Enter disposable email here
 password = " " # Enter email password here
 
